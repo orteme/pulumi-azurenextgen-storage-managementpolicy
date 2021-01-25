@@ -1,0 +1,3 @@
+name: pulumi-storage-managementpolicy
+runtime: dotnet
+description: azure-nextgen storage management policy creation problem
